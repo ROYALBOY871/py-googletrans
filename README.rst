@@ -4,7 +4,7 @@ Googletrans
 **Note**: I do this patch for my own project related with this issue https://github.com/ssut/py-googletrans/issues/328
 
 
-
+#LegendBot
 
 _____________________________________________
 
